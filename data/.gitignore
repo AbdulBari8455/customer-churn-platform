@@ -1,21 +1,21 @@
+# macOS
+.DS_Store
+
 # Python
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual Environment
 .venv/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# macOS
-.DS_Store
-
 # VS Code
 .vscode/
 
+# Raw data
+data/raw/
+
 # Models
 models/
-
-# Data (keep processed work, ignore raw data)
-data/raw/*.csv

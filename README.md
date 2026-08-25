@@ -1,15 +1,17 @@
 # Customer Churn & Retention Platform
 
-An end-to-end data science project using the IBM Telco Customer Churn dataset.
+An end-to-end machine learning project that predicts customer churn using the IBM Telco Customer Churn dataset.
 
-## Objectives
+## Project Goals
 
-- Explore customer churn behaviour
-- Build predictive machine learning models
+- Perform data quality assessment
+- Conduct exploratory data analysis (EDA)
+- Engineer predictive features
+- Build and compare machine learning models
 - Explain predictions using SHAP
 - Estimate customer lifetime value
-- Develop retention recommendations
-- Deploy the solution with an API and dashboard
+- Recommend retention strategies
+- Deploy the solution with FastAPI and Streamlit
 
 ## Tech Stack
 
@@ -19,3 +21,14 @@ An end-to-end data science project using the IBM Telco Customer Churn dataset.
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+- Git & GitHub
+
+## Project Status
+
+🚧 In Progress
+
+Current phase:
+- ✅ Data quality assessment
+- ✅ Initial exploratory data analysis
+- ⏳ Feature engineering
+- ⏳ Model development
